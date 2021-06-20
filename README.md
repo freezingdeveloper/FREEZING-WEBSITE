@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-This is the official website for Frezzing developer
+This is the official website of Frezzing developer on YouTube
 
 Download my games from here
 
