@@ -16,3 +16,5 @@ Old version-
 New version-
 [Falling rocket.zip](https://github.com/freezingdeveloper/freezingdeveloper/files/6682444/Falling.rocket.zip)
 
+Next game release date-
+Between 20 june to 22 june
