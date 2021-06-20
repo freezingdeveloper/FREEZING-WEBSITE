@@ -7,6 +7,6 @@ Download my games from here
 
 
 
-1)Falling rocket game-
+1)Falling rocket game
 
 [Falling rocket.zip](https://github.com/freezingdeveloper/freezingdeveloper/files/6682369/Falling.rocket.zip)
