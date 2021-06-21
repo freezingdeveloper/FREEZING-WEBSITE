@@ -20,11 +20,12 @@ Download my games from here
 
 1)Falling rocket game
 
-Game trailer
+Trailer-
 
 https://user-images.githubusercontent.com/86189459/122740775-08db6e80-d2a4-11eb-94a3-9004d1831fc5.mp4
 
 Old version-
+Download-
 [Falling rocket.zip](https://github.com/freezingdeveloper/freezingdeveloper/files/6682369/Falling.rocket.zip)
 
 Gameplay
@@ -36,10 +37,32 @@ https://user-images.githubusercontent.com/86189459/122741887-23faae00-d2a5-11eb-
 
 
 New version-
+Download-
 [Falling rocket.zip](https://github.com/freezingdeveloper/freezingdeveloper/files/6682444/Falling.rocket.zip)
 
-Next game release date-
-today
+
+
+Gameplay
+
+
+https://user-images.githubusercontent.com/86189459/122742335-8fdd1680-d2a5-11eb-845c-15ec4837aa9e.mp4
+
+
+
+
+2)Box escape
+
+Trailer-
+
+
+Gameplay-
+
+
+
+Download-
+
+
+
 
 
 
