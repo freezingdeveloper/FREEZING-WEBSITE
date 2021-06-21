@@ -8,7 +8,7 @@
 
 
 
-### Hi there 👋
+### Hello 
 
 This is the official website of Frezzing developer on YouTube
 
@@ -19,7 +19,9 @@ Download my games from here
 
 
 1)Falling rocket game
-Game trailer-
+
+Game trailer
+
 https://user-images.githubusercontent.com/86189459/122740775-08db6e80-d2a4-11eb-94a3-9004d1831fc5.mp4
 
 Old version-
